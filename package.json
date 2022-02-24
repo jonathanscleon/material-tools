@@ -1,6 +1,6 @@
 {
-  "name": "angular-material-tools",
-  "version": "1.0.0",
+  "name": "angularjs-material-tools",
+  "version": "1.1.0",
   "description": "Build tools for AngularJS Material",
   "main": "index.js",
   "license": "MIT",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular/material-tools.git"
+    "url": "https://github.com/jonathanscleon/material-tools"
   },
   "dependencies": {
     "angular": "^1.8.2",
